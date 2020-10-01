@@ -6,9 +6,11 @@
 ###### Heading 6
 **sample website for CIHS Robotics Class**
 
-https://www.youtube.com/watch?v=wLItgSOZNnk&t=43s
+*b*
 
-https://miro.medium.com/max/1177/1*t4k3HaFKtLvFl_JCofsZHA.jng
+[cool video](https://www.youtube.com/watch?v=wLItgSOZNnk&t=43s)
+
+[Cheems](https://static.wikia.nocookie.net/dogelore/images/b/bc/Cheems.png/revision/latest/top-crop/width/360/height/450?cb=20200729225152)
 
   This is a website where I put stuff I guess. Honestly I'm learning to code for my own benefit and the benefit of others. I've always been interested in coding due to my extensive hours in video games and was always curious on how game desing and technology works. Hopefully I'll use these skills to make apps and games, the first of which is probably a bad Unity game or Clash of Clash ripoff #472.
   
